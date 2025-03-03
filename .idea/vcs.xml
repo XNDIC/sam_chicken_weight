@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/efficientvit-master/TinyNeuralNetwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/efficientvit-master/segment-anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/efficientvit_master/TinyNeuralNetwork" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/efficientvit_master/segment-anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/efficientvit_master/segment_anything" vcs="Git" />
+  </component>
+</project>
