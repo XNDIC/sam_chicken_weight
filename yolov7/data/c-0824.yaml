@@ -1,0 +1,6 @@
+train: /root/dataSet/detection/chicken-data/dianjiang/DZ-yolov7/Light/train/images/
+val: /root/dataSet/detection/chicken-data/dianjiang/DZ-yolov7/Light/valid/images/
+
+nc: 1
+names: ['chicken']
+
