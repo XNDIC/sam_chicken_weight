@@ -43,12 +43,11 @@ Scikit-learn >= 1.3.2
 如果您在研究中使用了本项目，请引用：
 
 ```bibtex
-@misc{poultry-weight-estimation,
-  author = {[Your Name]},
-  title = {基于半监督实例分割与LBP特征的家禽重量估计系统},
+@misc{sam_chicken_weight,
+  title = {sam_chicken_weight},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/[your-username]/poultry-weight-estimation}
+  url = {https://github.com/XNDIC/sam_chicken_weight}
 }
 ```
 
